@@ -11,15 +11,5 @@ Create an urban-activity based model that can identify areas in NYC that are get
 __Challenge__:
 Predict what areas in NYC may be gentrified next
 
-__Stretch Goal__:
-Use banking data from BBVA analytics to study gentrification of neighborhoods where data is available
 
-## Project Management Plan
-| Milestone	|  Date  |
-|:----------:|:----------|
- Initial Capstone Project Report | April 2nd 2018 |
- First Progress Report | May 1st 2018 |
- Second Progress Report | June 24th 2018 |
- Final Project Deliverable | July 22nd 2018 |
- Submit all project materials | July 29th 2018 |
- Final Presentation | July 30th 2018 |
+
