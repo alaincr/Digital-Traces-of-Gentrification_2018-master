@@ -11,5 +11,38 @@ Create an urban-activity based model that can identify areas in NYC that are get
 __Challenge__:
 Predict what areas in NYC may be gentrified next
 
-
+## Repo directory structure
+.
+├── DataProcessing_EDA
+│   ├── 311complaints
+│   │   ├── complaint_change_2010_2015.ipynb
+│   │   └── data_process_311complaint.py
+│   ├── clustering
+│   │   ├── clustering.ipynb
+│   │   └── timeSeriesCluster.ipynb
+│   ├── commercial_activity_growth_index
+│   │   ├── DataScrape.py
+│   │   └── commercial_activity_growth_index.ipynb
+│   ├── crime
+│   │   └── Crime.ipynb
+│   ├── target_variables
+│   │   ├── MapofGentrification.ipynb
+│   │   └── Target_variables_and_index_validation.ipynb
+│   └── transportation
+│       ├── GreenTaxi_monthly.ipynb
+│       ├── Subway_EDA.ipynb
+│       ├── Subway_monthly_update.ipynb
+│       ├── Taxi_EDA.ipynb
+│       ├── YellowTaxi_monthly.ipynb
+│       └── annual_data_EDA.ipynb
+├── DataSource.md
+├── Modeling
+│   ├── OLS_LSVC
+│   │   └── Preliminary_OLS_and_LSVC.ipynb
+│   ├── RandomForest_GradientBoosting
+│   │   ├── RandomForest_GradientBoosting_part1.ipynb
+│   │   └── RandomForest_GradientBoosting_part2.ipynb
+│   └── correlation_analysis
+│       └── Correlation_and_statistical_significance_of_selected_features.ipynb
+└── README.md
 
