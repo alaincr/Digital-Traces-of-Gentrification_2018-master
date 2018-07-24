@@ -12,6 +12,7 @@ __Challenge__:
 Predict what areas in NYC may be gentrified next
 
 ## Repo directory structure
+```shell
 .
 ├── DataProcessing_EDA
 │   ├── 311complaints
@@ -45,4 +46,4 @@ Predict what areas in NYC may be gentrified next
 │   └── correlation_analysis
 │       └── Correlation_and_statistical_significance_of_selected_features.ipynb
 └── README.md
-
+```
