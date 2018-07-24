@@ -1,8 +1,8 @@
 # Digital Traces of Gentrification
 
 
-Team members:  
-[Baoling Zhou](https://github.com/baolingz), [Juan Sokoloff](https://github.com/juansokoloff), [Lingyi Zhang](https://github.com/lingyielia), [Srikanth Namuduri](https://github.com/srikanth261)
+ 
+> [Baoling Zhou](https://github.com/baolingz), [Juan Sokoloff](https://github.com/juansokoloff), [Lingyi Zhang](https://github.com/lingyielia), [Srikanth Namuduri](https://github.com/srikanth261)
 
 ----------------
 
