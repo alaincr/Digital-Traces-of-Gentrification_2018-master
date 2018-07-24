@@ -6,16 +6,9 @@ Team members:
 
 ----------------
 
-Gentrification is one of the most complex topics regarding urban development in modern cities. On one hand, it has beneficial effects such as creating economic dynamism in not very successful neighborhoods, but on the other hand it also leads to an increase in land prices which affects the population negatively who lives in the gentrifying areas. In this paper we create a definition of gentrification that involves the increase in rent and physical transformation in cities, and then identify variables that are correlated to the process, in order to promptly detect gentrifying neighborhoods or even being able to predict which will happen. To do this, we first develop a definition of gentrification that includes consequences, like rent increase, and also generating factors such as the number renewal licenses in an area, followed by the identification of variables that change when gentrification occurs, and finally developing a model that can pinpoint gentrifying neighborhoods or even predict which will gentrify. This will allow to identify the gentrification process before one can detect it from census and other more static/non-frequently updated data, even further this project could be beneficial for both city agencies and developers in order to mitigate the negative impacts that the process brings or to maximize their investment returns, respectively.
+Gentrification is an urban process in which neighborhoods undergo fast renewal, it can lead to a to a rent increase and the displacement of low-income population. This process is usually measured by the demographic changes such as income and race change which is collected infrequently and expensively. As a result, the government is unable to timely detect the phenomenon and notify the residents for early preparation. In this paper, we aim to find human behavior features that can help trace gentrifying neighborhoods in New York City. In order to do so, we defined a set of target variables, inherent to the gentrification process and identified a set of human behavior variables (digital traces) that might be correlated with the process. Then we applied three statistical models (Linear Support Vector Classification, Random Forest, and Gradient Boosting) to all the variables and found some common features that present significant correlation with gentrification and also the expected relationship when contrasted with previous studies. These findings can lead to future work in which through the use of this features, gentrification can be predicted, allowing policymakers to amplify the positive impacts and minimize the negative ones that these changes bring to neighborhoods.
 
-## Project Scope
-__Baseline Goals__:
-An exploration of the various indicators of Gentrification and a resulting definition in terms of a measure for displacement of population and renewal of the region
-Identification of digital traces in openly available data such as 311 data, historical rental prices, business license data etc
-Create an urban-activity based model that can identify areas in NYC that are getting gentrified
-
-__Challenge__:
-Predict what areas in NYC may be gentrified next
+## - [Full Report](https://www.authorea.com/users/152594/articles/298517-digital-traces-of-gentrification) - [Website]()
 
 ## Repo directory structure
 ```shell
