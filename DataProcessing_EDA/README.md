@@ -1,22 +1,11 @@
 # Content Summary
 
-#### [Target Variables](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/DataProcessing_EDA/target_variables/Target_variables_and_index_validation.ipynb)
+| File        | Summary           |
+| ------------- |:-------------:|
+| [Target Variables](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/DataProcessing_EDA/target_variables/Target_variables_and_index_validation.ipynb)      | In this notebook we perform the data cleaning, exploration and preparation of all our target variables that are used in the final dataset. We assign the values by Zip Code and create several visualizations to have a preliminary understanding of their behavior. This is also the notebook where the Gentrification Index is developed and compared to the Furman Center gentrifying neighborhoods maps, to have a comparison of our classification and a previously accpected gentrification map. |
+| [Crime](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/DataProcessing_EDA/crime/Crime.ipynb) | In this notebook we perform the data cleaning and preparation of three particular types of crime that in different papers have been pointed as possibly related to neighborhood change: Robbery, Petit Larceny and Drug related crimes. The resulting data is then normalized by zip code area and population to achieve the target variables we use in the final data set.  |
+| [311 complaints](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/DataProcessing_EDA/311complaints/data_process_311complaint.py) |We extracted top 20 complaint types and converted them into 5 more general categories, i.e. Streets and sidewalks, Home, Noise, Transportation, Public health and safety, and Vehicles and parking. The resulting data is then normalized by zip code area and population.|
+| [commercial activity growth index](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/DataProcessing_EDA/commercial_activity_growth_index/DataScrape.py) | We scrapyed the commercial activity growth index and used it as one of our feature. |
+| [Time Series Cluster](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/DataProcessing_EDA/clustering/timeSeriesCluster.ipynb) | We clustered our independent variables based on their historical trends across different zipcode area. |
 
-In this notebook we perform the data cleaning, exploration and preparation of all our target variables that are used in the final dataset. We assign the values by Zip Code and create several visualizations to have a preliminary understanding of their behavior. This is also the notebook where the Gentrification Index is developed and compared to the Furman Center gentrifying neighborhoods maps, to have a comparison of our classification and a previously accpected gentrification map.
-
-#### [Crime](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/DataProcessing_EDA/crime/Crime.ipynb)
-
-In this notebook we perform the data cleaning and preparation of three particular types of crime that in different papers have been pointed as possibly related to neighborhood change: Robbery, Petit Larceny and Drug related crimes. The resulting data is then normalized by zip code area and population to achieve the target variables we use in the final data set. 
-
-#### [311complaints](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/DataProcessing_EDA/311complaints/data_process_311complaint.py)
-
-We extracted top 20 complaint types and converted them into 5 more general categories, i.e. Streets and sidewalks, Home, Noise, Transportation, Public health and safety, and Vehicles and parking. The resulting data is then normalized by zip code area and population.
-
-#### [commercial_activity_growth_index](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/DataProcessing_EDA/commercial_activity_growth_index/DataScrape.py)
-
-We scrapyed the commercial activity growth index and used it as one of our feature.
-
-#### [Time Series Cluster](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/DataProcessing_EDA/clustering/timeSeriesCluster.ipynb)
-
-We clustered our independent variables based on their historical trends across different zipcode area.
 
