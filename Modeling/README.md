@@ -1,8 +1,7 @@
+# Content Summary
 
-# LSVC and OLS
-
-In this notebook we perform the Linear Support Vector Classifier feature selection with L1 penalty in order to find the features that (according to this method) are the best classifiers for each of the target variables. Before that we also run some OLS preliminary models for each target variable using all of our features to find the maximum achievable R squared for each of them. There is also some PCA exploration.
-
-# Correlation Analysis.
-
-After having used all the models and feature selection methods to identify the most relevant features we perform a correlation analysis for each of them and all of the target variables. Here we find significance and sign of the correlation. Finally we try to use the predicted values of an OLS in sample model to plot a map and compare with the actual values of the target variable.
+| File        | Summary           |
+| ------------- |:-------------:|
+| [LSVC and OLS](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/Modeling/OLS_LSVC/Preliminary_OLS_and_LSVC.ipynb) | In this notebook we perform the Linear Support Vector Classifier feature selection with L1 penalty in order to find the features that (according to this method) are the best classifiers for each of the target variables. Before that we also run some OLS preliminary models for each target variable using all of our features to find the maximum achievable R squared for each of them. There is also some PCA exploration. |
+| [Correlation Analysis](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/Modeling/correlation_analysis/Correlation_and_statistical_significance_of_selected_features.ipynb) | After having used all the models and feature selection methods to identify the most relevant features we perform a correlation analysis for each of them and all of the target variables. Here we find significance and sign of the correlation. Finally we try to use the predicted values of an OLS in sample model to plot a map and compare with the actual values of the target variable.|
+| [RandomForest & GradientBoosting](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/Modeling/RandomForest_GradientBoosting/RandomForest_GradientBoosting_part1.ipynb) | Here we performed Random Forest and Gradient Boosting without doing any feature selection. We tried regularization such as limit the number of features and depth of trees while the out of sample accuracy remains low.  |
