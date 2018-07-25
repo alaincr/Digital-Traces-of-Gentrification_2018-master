@@ -13,7 +13,7 @@ Gentrification is an urban process in which neighborhoods undergo fast renewal, 
 
 -------------------
 
-## Repo directory structure
+### Repo directory structure
 ```shell
 .
 ├── DataProcessing_EDA
