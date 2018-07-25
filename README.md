@@ -20,6 +20,7 @@ Gentrification is an urban process in which neighborhoods undergo fast renewal, 
 │   ├── 311complaints
 │   │   ├── complaint_change_2010_2015.ipynb
 │   │   └── data_process_311complaint.py
+│   ├── README.md
 │   ├── clustering
 │   │   ├── clustering.ipynb
 │   │   └── timeSeriesCluster.ipynb
@@ -32,16 +33,16 @@ Gentrification is an urban process in which neighborhoods undergo fast renewal, 
 │   │   ├── MapofGentrification.ipynb
 │   │   └── Target_variables_and_index_validation.ipynb
 │   └── transportation
+│       ├── FHV_monthly.ipynb
 │       ├── GreenTaxi_monthly.ipynb
-│       ├── Subway_EDA.ipynb
 │       ├── Subway_monthly_update.ipynb
-│       ├── Taxi_EDA.ipynb
 │       ├── YellowTaxi_monthly.ipynb
 │       └── annual_data_EDA.ipynb
 ├── DataSource.md
 ├── Modeling
 │   ├── OLS_LSVC
 │   │   └── Preliminary_OLS_and_LSVC.ipynb
+│   ├── README.md
 │   ├── RandomForest_GradientBoosting
 │   │   ├── RandomForest_GradientBoosting_part1.ipynb
 │   │   └── RandomForest_GradientBoosting_part2.ipynb
