@@ -7,5 +7,5 @@
 | [311 complaints](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/DataProcessing_EDA/311complaints/data_process_311complaint.py) |We extracted top 20 complaint types and converted them into 5 more general categories, i.e. Streets and sidewalks, Home, Noise, Transportation, Public health and safety, and Vehicles and parking. The resulting data is then normalized by zip code area and population.|
 | [commercial activity growth index](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/DataProcessing_EDA/commercial_activity_growth_index/DataScrape.py) | We scrapyed the commercial activity growth index and used it as one of our feature. |
 | [Time Series Cluster](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/DataProcessing_EDA/clustering/timeSeriesCluster.ipynb) | We clustered our independent variables based on their historical trends across different zipcode area. |
-
+| [Time Series Cluster](https://github.com/CUSPcapstones/Digital-Traces-of-Gentrification_2018/blob/master/DataProcessing_EDA/clustering/timeSeriesCluster.ipynb) | We clustered our independent variables based on their historical trends across different zipcode area. |
 
